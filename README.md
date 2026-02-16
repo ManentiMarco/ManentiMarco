@@ -8,7 +8,7 @@ Currently learning, experimenting, and improving step by step.
 
 I enjoy building small and practical web applications.
 
-# Tech 💻
+# Tech Stack 💻
 
 * HTML, CSS, and JavaScript for the frontend.
 
