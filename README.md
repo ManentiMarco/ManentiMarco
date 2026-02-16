@@ -21,3 +21,7 @@ I enjoy building small and practical web applications.
 * VS Code for development.
 
 * XAMPP to host my web apps.
+
+# Projects 📂
+
+* WIP...
